@@ -1,0 +1,18 @@
+slug: minigame
+name: Minigame
+tagline: Repo minigame đang để trống
+url: https://github.com/thangvt-food/minigame
+status: idea
+visibility: private
+description: Repo chỉ có README, chưa có mã nguồn; đang giữ chỗ cho minigame.
+tags:
+  - game
+category: games
+tech: []
+hosting: unknown
+updated: '2025-09-29'
+icon: 📦
+auth: none
+links:
+  repo: https://github.com/thangvt-food/minigame
+notes: Repo public nhưng trống.
